@@ -356,6 +356,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 0f57371904054fc4fa03b1f995cc50e9, type: 2}
   - {fileID: 11400000, guid: 5cba02ed2db514542917c5a9b5510b07, type: 2}
   timeBetweenWaves: 1
+  isLooping: 1
 --- !u!4 &1728647523
 Transform:
   m_ObjectHideFlags: 0
@@ -379,22 +380,6 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2095240126, guid: aa0c85def69591142928a5b4541d9ab5, type: 3}
-      propertyPath: paddingTop
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 2095240126, guid: aa0c85def69591142928a5b4541d9ab5, type: 3}
-      propertyPath: paddingLeft
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 2095240126, guid: aa0c85def69591142928a5b4541d9ab5, type: 3}
-      propertyPath: paddingRight
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 2095240126, guid: aa0c85def69591142928a5b4541d9ab5, type: 3}
-      propertyPath: paddingBottom
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 2969305891250023465, guid: aa0c85def69591142928a5b4541d9ab5, type: 3}
       propertyPath: m_Name
       value: Player
